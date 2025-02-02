@@ -51,6 +51,7 @@ const Main = () => {
         ) : (
           <>
             <Header />
+            Test
             <Greeting />
             <Skills />
             <StackProgress />
